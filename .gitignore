@@ -1,3 +1,4 @@
 
 runtime/*
 public/cache/*
+config/database.php
