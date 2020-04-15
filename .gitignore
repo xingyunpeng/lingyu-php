@@ -1,4 +1,5 @@
-
-runtime/*
-public/cache/*
-config/database.php
+/.idea
+/.vscode
+/vendor
+*.log
+.env
